@@ -15,4 +15,5 @@ int main()
     printf("%f%f",a+b,a-b);
     
     return 0;
+	
 }
